@@ -16,12 +16,12 @@ const Feature = () => {
                     />
                     <div className="md:w-1/2">
                         <h3 className="text-2xl text-lightBlue font-semibold mb-4">
-                            Winter Warmth Drive
+                            Demo Warmth Drive
                         </h3>
                         <p className="mb-8">
-                            Our Winter Warmth Drive is dedicated to providing
-                            essential winter clothing and supplies to those in
-                            need. Join us in making a difference this winter by
+                            Our Demo Warmth Drive is dedicated to providing
+                            essential Demo clothing and supplies to those in
+                            need. Join us in making a difference this Demo by
                             donating coats, hats, gloves, and blankets.
                         </p>
                         <NavLink

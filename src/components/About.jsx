@@ -46,7 +46,7 @@ const About = () => {
                     <div className="grid lg:grid-cols-2 gap-8 items-center">
                         <div>
                             <p className="leading-relaxed mb-6">
-                                WinterAid is a non-profit organization dedicated to helping the homeless and those in need during the harsh winter months. Our mission is to provide essential winter clothing and supplies to ensure that everyone can stay warm and safe.
+                                DemoAid is a non-profit organization dedicated to helping the homeless and those in need during the harsh winter months. Our mission is to provide essential winter clothing and supplies to ensure that everyone can stay warm and safe.
                             </p>
                             <p className="leading-relaxed">
                                 We believe that no one should have to suffer from the cold, and we are committed to making a difference in our community. Through our various donation campaigns, we collect and distribute coats, hats, gloves, socks, blankets, and other winter essentials to those who need them the most.

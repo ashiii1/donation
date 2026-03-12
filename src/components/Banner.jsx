@@ -22,8 +22,8 @@ const Banner = () => {
         {
             id: 2,
             image: banner2,
-            title: "Join Our Winter Mission",
-            subtitle: "Together we can ensure no one faces winter without warmth",
+            title: "Join Our Demo Mission",
+            subtitle: "Together we can ensure no one faces Demo without warmth",
             buttonText: "Get Involved",
             buttonLink: "/how-to-help"
         },
@@ -31,7 +31,7 @@ const Banner = () => {
             id: 3,
             image: banner3,
             title: "Every Coat Tells a Story",
-            subtitle: "Help us write stories of hope and compassion this winter",
+            subtitle: "Help us write stories of hope and compassion this Demo",
             buttonText: "View Impact",
             buttonLink: "/about"
         },

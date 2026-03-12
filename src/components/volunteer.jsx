@@ -19,7 +19,7 @@ const Volunteer = () => {
                             Mark Johnson
                         </h3>
                         <p className="mb-8">
-                            Mark has been a dedicated volunteer with WinterAid
+                            Mark has been a dedicated volunteer with DemoAid
                             for over 5 years. His commitment to helping those in
                             need has made a significant impact on our community.
                             Mark spends his weekends sorting donations, packing

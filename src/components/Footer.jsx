@@ -13,11 +13,11 @@ const Footer = () => {
                             to="/"
                             className="text-2xl font-bold gap-0 hover:bg-transparent"
                         >
-                            <span className="text-white">Winter</span>
+                            <span className="text-white">Demo</span>
                             <span className="text-Orange">Aid</span>
                         </Link>
                         <p className="">
-                            WinterAid is a non-profit organization dedicated to
+                            DemoAid is a non-profit organization dedicated to
                             helping the homeless during the winter season.
                         </p>
                     </div>

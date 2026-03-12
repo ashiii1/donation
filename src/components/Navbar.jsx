@@ -71,7 +71,7 @@
 //                     </div>
 
 //                     <NavLink to="/" className="text-2xl font-bold gap-0">
-//                         <span className="text-primary">Winter</span>
+//                         <span className="text-primary">Demo</span>
 //                         <span className="text-Orange">Aid</span>
 //                     </NavLink>
 //                 </div>
@@ -179,7 +179,7 @@ const Navbar = () => {
                 <div className="navbar max-w-screen-xl mx-auto py-4 px-2">
                     <div className="navbar-start">
                         <NavLink to="/" className="text-2xl font-bold">
-                            <span className="text-primary">Winter</span>
+                            <span className="text-primary">Demo</span>
                             <span className="text-Orange">Aid</span>
                         </NavLink>
                     </div>
