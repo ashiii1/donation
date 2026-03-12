@@ -211,8 +211,7 @@ const Navbar = () => {
             </nav>
 
             {/* MOBILE BOTTOM NAVIGATION */}
-<div className="fixed bottom-0 left-0 w-full bg-white border-t shadow-lg hidden max-[500px]:flex justify-around items-center py-2 z-[9999]">
-                <NavLink
+<div className="fixed bottom-0 left-0 w-full bg-white border-t shadow-lg flex justify-around items-center py-2 md:hidden z-[9999]">                <NavLink
                     to="/"
                     className={({ isActive }) =>
                         `flex flex-col items-center text-xs ${
