@@ -175,7 +175,7 @@ const Navbar = () => {
     return (
         <>
             {/* TOP NAVBAR (DESKTOP ONLY) */}
-            <nav className="bg-background backdrop-blur-md bg-opacity-60 sticky top-0 z-50 hidden lg:block">
+            <nav className="bg-background backdrop-blur-md bg-opacity-60 sticky top-0 z-[9999] hidden lg:block">
                 <div className="navbar max-w-screen-xl mx-auto py-4 px-2">
                     <div className="navbar-start">
                         <NavLink to="/" className="text-2xl font-bold">
