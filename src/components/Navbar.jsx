@@ -210,7 +210,6 @@ const Navbar = () => {
                 </div>
             </nav>
 
-
             {/* MOBILE BOTTOM NAVIGATION */}
 {/* <div className="fixed bottom-0 left-0 w-full bg-white border-t shadow-lg flex justify-around items-center py-2 md:hidden z-[9999]">                <NavLink
                     to="/"
@@ -264,24 +263,24 @@ const Navbar = () => {
 
 
 
-            <div className="fixed bottom-0 left-0 w-full bg-red-500 flex justify-around items-center py-3 z-[9999]">
+            <div className="fixed bottom-2 left-0 w-full bg-white border-t shadow-lg flex justify-around items-center py-2 pb-[env(safe-area-inset-bottom)] md:hidden z-[9999]">
 
-  <NavLink to="/" className="flex flex-col items-center text-white text-xs">
+  <NavLink to="/" className="flex flex-col items-center text-xs">
     <AiFillHome size={24}/>
     Home
   </NavLink>
 
-  <NavLink to="/donation-campaigns" className="flex flex-col items-center text-white text-xs">
+  <NavLink to="/donation-campaigns" className="flex flex-col items-center text-xs">
     <FaHandHoldingHeart size={24}/>
     Campaigns
   </NavLink>
 
-  <NavLink to="/how-to-help" className="flex flex-col items-center text-white text-xs">
+  <NavLink to="/how-to-help" className="flex flex-col items-center text-xs">
     <MdVolunteerActivism size={24}/>
     Help
   </NavLink>
 
-  <NavLink to="/dashboard" className="flex flex-col items-center text-white text-xs">
+  <NavLink to="/dashboard" className="flex flex-col items-center text-xs">
     <RiDashboardFill size={24}/>
     Dashboard
   </NavLink>
