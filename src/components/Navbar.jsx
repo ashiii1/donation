@@ -263,7 +263,7 @@ const Navbar = () => {
 
 
 
-            <div className="fixed bottom-6 left-0 w-full bg-orange-200/20 backdrop-blur-sm border-t shadow-lg flex justify-around items-center py-3 pb-6 md:hidden z-[9999]">
+            <div className="fixed bottom-16 left-0 w-full bg-orange-200/20 backdrop-blur-sm border-t shadow-lg flex justify-around items-center py-3 pb-6 md:hidden z-[9999]">
 
   <NavLink to="/" className="flex flex-col items-center text-xs">
     <AiFillHome size={22}/>
